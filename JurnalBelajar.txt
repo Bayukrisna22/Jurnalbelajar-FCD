@@ -1,0 +1,5 @@
+hari Jumat tgl: 16/05/2025
+belajar Version control System (GIT)
+- istilah-istilah dalam git (Commit,repo,branch,merge)
+- menginstal Git dan membuat akun Github
+- mencoba membuat file di github
