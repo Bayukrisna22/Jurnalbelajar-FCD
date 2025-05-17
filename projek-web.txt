@@ -1,0 +1,4 @@
+Rencana Projek web untuk portofolio
+ - Membuat landing page
+ - membuat konten di Instagram
+ - membuat konten di tiktok
