@@ -1,0 +1,5 @@
+Rencana Projek web untuk portofolio
+ - Membuat landing page
+ - membuat konten di Instagram (feed, Coraousel,story)
+ - membuat konten di tiktok
+ - membuat akun youtube short/youtube
